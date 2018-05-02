@@ -8,6 +8,6 @@
 
 使用方法：
 ```python
-url.py  C:\Python36\test\url.txt  100
-程序    链接文本（一行一个）         线程
+url.py  C:\url.txt                100
+程序    链接文本路径（一行一个）     线程
 ```
